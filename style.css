@@ -30,3 +30,10 @@
   border-radius:25px;
   border-width:0px;
 }
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color:#b0b8b3; /* Optional, gives a nice background */
+}
