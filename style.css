@@ -1,0 +1,32 @@
+.h-center{
+    text-align:center;
+    color:white;
+    background-image:url("https://img.freepik.com/premium-photo/birthday-party-balloons-colourful-balloons-background-birthday-cake-with-candles_905450-12085.jpg?semt=ais_hybrid&w=740");
+    width:700px;
+    height:450px;
+    background-image: cover;
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  border-bottom-right-radius:15px;
+  border-bottom-left-radius:15px;
+  padding:1px;
+ }
+.body{
+    color:#080051;
+    font-size: 20px;
+  
+}
+.h-right{
+     text-align:right;
+    color:white;
+    font-size:17px;
+     
+}
+.button{
+   height:20px;
+  width:90px;
+  background-color:white;
+  color:white;
+  border-radius:25px;
+  border-width:0px;
+}
